@@ -1,0 +1,6 @@
+C:\KSR\MassTransit3\Wiadomosci\Wiadomosci\bin\Debug\Wiadomosci.dll
+C:\KSR\MassTransit3\Wiadomosci\Wiadomosci\bin\Debug\Wiadomosci.pdb
+C:\KSR\MassTransit3\Wiadomosci\Wiadomosci\obj\Debug\Wiadomosci.csproj.AssemblyReference.cache
+C:\KSR\MassTransit3\Wiadomosci\Wiadomosci\obj\Debug\Wiadomosci.csproj.CoreCompileInputs.cache
+C:\KSR\MassTransit3\Wiadomosci\Wiadomosci\obj\Debug\Wiadomosci.dll
+C:\KSR\MassTransit3\Wiadomosci\Wiadomosci\obj\Debug\Wiadomosci.pdb
